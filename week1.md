@@ -215,12 +215,15 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 |     |     |     |     |
+| 달성 여부 |  O  |     |     |     |
 
 <details>
    
   <summary>월요일</summary>
--
+  
+<img width="526" height="1137" alt="image" src="https://gist.github.com/user-attachments/assets/35f7b258-c948-496d-adec-ff82a19e02bb" />
+
+<img width="517" height="1244" alt="image" src="https://gist.github.com/user-attachments/assets/f6cbad08-c155-4da8-848e-44e9eaafdab9" />
    
 </details>
 
