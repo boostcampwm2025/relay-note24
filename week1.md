@@ -238,13 +238,20 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   |     |     |     |
+| 달성 여부 | O   | O   |     |     |
 
 <details>
    
-  <summary>월요일</summary>
+  <summary>월요일 퀴즈 - 다형성 추가학습</summary>
 - <img width="639" height="2440" alt="image" src="https://github.com/user-attachments/assets/0d2de358-6c43-416f-81d9-9d4c9fbe2729" />
-- 다형성 추가학습 완료
-   
+
 </details>
+
+<details>
+   
+  <summary>화요일 퀴즈 - 텍스트파일 추가학습</summary>
+- <img width="1097" height="808" alt="image" src="https://github.com/user-attachments/assets/384cbf13-efad-4308-9331-d7a65dcf99f6" />
+
+</details>
+
 
