@@ -175,14 +175,39 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 |     |     |     |     |
+| 달성 여부 |  O  |  O  |  O  |  O  |
 
 <details>
    
-  <summary>월요일</summary>
--
+  <summary>월요일 -객체지향 프로그래밍 퀴즈</summary>
+- <img width="1837" height="824" alt="릴레이1일차" src="https://github.com/user-attachments/assets/59b19803-67c5-4ed9-a4f9-6ea4c071e634" />
+
    
 </details>
+
+<details>
+   
+  <summary>화요일 - 소프트웨어 테스트 퀴즈</summary>
+- <img width="1835" height="867" alt="릴레이2일차" src="https://github.com/user-attachments/assets/9edb6565-082a-441f-ae3b-badaeeb2ea99" />
+
+</details>
+
+<details>
+   
+  <summary>수요일 - 함수형 프로그래밍 퀴즈</summary>
+- <img width="1834" height="898" alt="릴레이3일차" src="https://github.com/user-attachments/assets/d82e4c22-71f3-4f6d-9b84-ef73d92be263" />
+
+</details>
+
+<details>
+   
+  <summary>목요일 - 경쟁 상태와 동시성 문제 퀴즈</summary>
+- <img width="1843" height="863" alt="릴레이4일차" src="https://github.com/user-attachments/assets/ca32d3f1-b66c-4d1f-b48d-93663b93f761" />
+
+</details>
+
+
+
 
 ---
 
