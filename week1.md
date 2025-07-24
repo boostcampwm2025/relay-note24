@@ -240,15 +240,36 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 |  O  |     |     |     |
+| 달성 여부 |  O  |  O  |  O  |  O  |
 
 <details>
    
-  <summary>월요일</summary>
+  <summary>월요일 - 클래스 관련 용어 및 개념 리마인드</summary>
   
-<img width="526" height="1137" alt="image" src="https://gist.github.com/user-attachments/assets/35f7b258-c948-496d-adec-ff82a19e02bb" />
+- <img width="526" height="1137" alt="image" src="https://gist.github.com/user-attachments/assets/35f7b258-c948-496d-adec-ff82a19e02bb" />
 
-<img width="517" height="1244" alt="image" src="https://gist.github.com/user-attachments/assets/f6cbad08-c155-4da8-848e-44e9eaafdab9" />
+- <img width="517" height="1244" alt="image" src="https://gist.github.com/user-attachments/assets/f6cbad08-c155-4da8-848e-44e9eaafdab9" />
+   
+</details>
+
+<details>
+   
+  <summary>화요일 - 파일 시스템 관련 개념 리마인드</summary>
+- <img width="402" height="1190" alt="image" src="https://gist.github.com/user-attachments/assets/b94d6d1a-197b-46d3-b0ea-0eb695d3b5f9" />
+   
+</details>
+
+<details>
+   
+  <summary>수요일 - 함수형 프로그래밍 개념 리마인드</summary>
+- <img width="397" height="1248" alt="image" src="https://gist.github.com/user-attachments/assets/6f250224-d814-4853-baee-5c6cdf1b590b" />
+   
+</details>
+
+<details>
+   
+  <summary>목요일 - 멀티 스레드, 비동기 리마인드</summary>
+- <img width="397" height="1201" alt="image" src="https://gist.github.com/user-attachments/assets/5bd91e95-7cb2-43d7-a0b5-4e7ddd589c8d" />
    
 </details>
 
