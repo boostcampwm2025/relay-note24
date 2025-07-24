@@ -284,7 +284,7 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   | O   |     |     |
+| 달성 여부 | O   | O   | O   |  O  |
 
 <details>
    
@@ -297,6 +297,21 @@ ex) 학습키워드 -> 프로세스 메모리 구조 <br>
    
   <summary>화요일 퀴즈 - 텍스트파일 추가학습</summary>
 - <img width="1097" height="808" alt="image" src="https://github.com/user-attachments/assets/384cbf13-efad-4308-9331-d7a65dcf99f6" />
+
+</details>
+
+<details>
+   
+  <summary>수요일 퀴즈 - 함수형 추가학습</summary>
+- <img width="777" height="810" alt="image" src="https://github.com/user-attachments/assets/4223419f-3db0-4731-99cc-e47274c6d0b1" />
+
+</details>
+
+
+<details>
+   
+  <summary>목요일 퀴즈 - 멀티스레드 </summary>
+- <img width="755" height="802" alt="image" src="https://github.com/user-attachments/assets/d8c0bac1-972f-4172-ac93-dfcb24aacb97" />
 
 </details>
 
