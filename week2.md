@@ -45,3 +45,135 @@
 **추가로 진행할 사항**
 
 - 나를 돌아보는 과정을 진행한 뒤, 열심히 챌린지에 참여하고 있는 스스로를 독려해주도록 AI에게 요청한다.
+
+---
+
+## 9조 퀘스트 선택
+
+## 📅 J199 선택 - 3. AI와 퀴즈를 통해 미션 리마인드하기
+
+### 📌 선택한 이유
+
+-
+
+### 📒 기록
+
+<details>
+
+<summary><strong>2025. 07. 28. (월)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 29. (화)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 30. (수)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 31. (목)</strong></summary>
+
+</details>
+
+## 📅 J255 선택 - 4. 매일 5분, 챌린지 속 나를 돌아보는 습관
+
+### 📌 선택한 이유
+
+-
+
+### 📒 기록
+
+<details>
+
+<summary><strong>2025. 07. 28. (월)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 29. (화)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 30. (수)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 31. (목)</strong></summary>
+
+</details>
+
+## 📅 J262 선택 - 1. AI, 난 어떻게 사용하고 있었을까
+
+### 📌 선택한 이유
+
+-
+
+### 📒 기록
+
+<details>
+
+<summary><strong>2025. 07. 28. (월)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 29. (화)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 30. (수)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 31. (목)</strong></summary>
+
+</details>
+
+## 📅 K015 선택 - 4. 매일 5분, 챌린지 속 나를 돌아보는 습관
+
+### 📌 선택한 이유
+
+-
+
+### 📒 기록
+
+<details>
+
+<summary><strong>2025. 07. 28. (월)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 29. (화)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 30. (수)</strong></summary>
+
+</details>
+
+<details>
+
+<summary><strong>2025. 07. 31. (목)</strong></summary>
+
+</details>
