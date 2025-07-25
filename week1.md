@@ -331,6 +331,7 @@ AI 활용 방식의 질적 향상:
 <details>
    
   <summary>화요일 - 파일 시스템 관련 개념 리마인드</summary>
+  
 - <img width="402" height="1190" alt="image" src="https://gist.github.com/user-attachments/assets/b94d6d1a-197b-46d3-b0ea-0eb695d3b5f9" />
    
 </details>
@@ -338,6 +339,7 @@ AI 활용 방식의 질적 향상:
 <details>
    
   <summary>수요일 - 함수형 프로그래밍 개념 리마인드</summary>
+  
 - <img width="397" height="1248" alt="image" src="https://gist.github.com/user-attachments/assets/6f250224-d814-4853-baee-5c6cdf1b590b" />
    
 </details>
@@ -345,6 +347,7 @@ AI 활용 방식의 질적 향상:
 <details>
    
   <summary>목요일 - 멀티 스레드, 비동기 리마인드</summary>
+  
 - <img width="397" height="1201" alt="image" src="https://gist.github.com/user-attachments/assets/5bd91e95-7cb2-43d7-a0b5-4e7ddd589c8d" />
    
 </details>
