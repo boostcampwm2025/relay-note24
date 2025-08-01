@@ -62,11 +62,86 @@
 
 <summary><strong>2025. 07. 28. (월)</strong></summary>
 
+```
+❓ 퀴즈 1 – 객체지향 (OOP)
+상황: 선배는 User, Admin, Guest의 역할에 따라 다른 대시보드를 보여주는 웹 앱을 만들고 있어요. 코드에서 역할에 따라 showDashboard()를 다르게 구현하려고 하는데…
+
+Q1. 다음 중 ‘다형성’을 가장 잘 활용한 코드 패턴은 무엇인가요?
+
+A. if 문으로 역할마다 다른 showDashboard()를 호출
+B. User 클래스를 상속받은 Admin, Guest가 각자 showDashboard()를 오버라이딩
+C. User 클래스 안에 role 프로퍼티를 체크해서 내부에서 switch문으로 처리
+D. 각각의 역할을 별개의 함수로 나누어 호출
+
+❓ 퀴즈 2 – 비동기 (Async)
+상황: 선배는 API 요청 3개를 보내고 결과를 기다렸다가 결과를 모두 합친 후 출력해야 해요.
+
+Q2. 다음 중 이 목적에 가장 적절한 JavaScript 코드 패턴은 무엇인가요?
+
+A. Promise.all([api1(), api2(), api3()])
+B. api1().then(api2).then(api3)
+C. await api1(); await api2(); await api3();
+D. setTimeout(api1, 1000)
+
+❓ 퀴즈 3 – 병렬처리 vs 비동기
+상황: 선배가 Node.js 서버에서 이미지 10장을 한꺼번에 압축하려고 합니다. 이 작업은 CPU 연산이 무겁고 시간이 오래 걸려요.
+
+Q3. 다음 중 이 상황에서 가장 좋은 처리 전략은?
+
+A. Node.js의 이벤트 루프를 활용해 비동기로 압축
+B. Web Worker를 활용한 멀티스레드 병렬처리
+C. Promise.all로 압축 함수들을 병렬 실행
+D. 압축 작업을 순차적으로 처리
+
+❓ 퀴즈 4 – 비동기와 병렬의 오해
+Q4. 다음 중 비동기와 병렬처리를 잘못 이해한 설명은 무엇인가요?
+
+A. 비동기는 순서를 보장하지 않지만 병렬은 동시에 작업을 처리한다.
+B. 병렬처리는 멀티코어 CPU를 활용한 진짜 동시에 실행되는 처리다.
+C. 비동기는 병렬로 작동하므로 항상 속도가 더 빠르다.
+D. JavaScript는 싱글 스레드지만 비동기 처리를 통해 효율적인 작업 분산이 가능하다.
+
+```
+
+
 </details>
 
 <details>
 
 <summary><strong>2025. 07. 29. (화)</strong></summary>
+
+```
+Q1. 단위 테스트를 작성할 때 가장 중요한 목표는 무엇인가요?
+
+A. 외부 API와의 통신을 실제로 테스트하는 것
+B. 하나의 함수가 다양한 입력에 대해 예상한 결과를 내는지 확인하는 것
+C. UI가 사용자의 클릭에 잘 반응하는지 확인하는 것
+D. 전체 시스템이 잘 작동하는지 시나리오별로 점검하는 것
+
+
+Q2. 다음 중 단위 테스트가 어려운 코드 특징으로 가장 적절한 것은?
+
+A. 순수 함수로 작성된 로직
+B. 입력값이 정해져 있는 계산 함수
+C. 전역 상태나 시간에 따라 결과가 달라지는 함수
+D. 반환값이 명확한 정렬 함수
+
+상황: console.log('A'), setTimeout(() => console.log('B'), 0), console.log('C') 를 실행했을 때 출력 순서를 선배는 기억하고 있겠죠?
+Q3. 출력 순서로 옳은 것은?
+
+A. A → B → C
+B. B → A → C
+C. A → C → B
+D. C → A → B
+
+
+Q4. 다음 중 Node.js 이벤트 루프를 블로킹할 수 있는 작업은 무엇인가요?
+
+A. DB에서 유저 리스트를 가져오는 비동기 호출
+B. setTimeout으로 지연시키는 비동기 로직
+C. while(true) {}로 CPU를 계속 점유하는 연산
+D. fs.readFile을 비동기로 읽는 작업
+```
 
 </details>
 
@@ -74,11 +149,76 @@
 
 <summary><strong>2025. 07. 30. (수)</strong></summary>
 
+```
+Q1. .git 폴더는 Git에서 어떤 역할을 하나요?
+
+A. 프로젝트의 최신 파일만 저장해두는 백업 폴더
+B. Git 저장소에서 필요한 설정, 히스토리, 객체들을 관리하는 핵심 저장소
+C. 커밋 메시지들을 모아두는 로그 전용 폴더
+D. GitHub와 연결할 때만 임시로 만들어지는 설정 공간
+
+Q2. .git/HEAD 파일이 담당하는 것은 무엇인가요?
+
+A. 커밋 메시지를 저장하는 임시 공간
+B. 가장 최근 커밋의 해시를 저장하는 곳
+C. 현재 작업 중인 브랜치를 가리키는 포인터
+D. 병합 충돌 시 자동으로 생성되는 파일
+
+Q3. Git에서 blob, tree, commit 같은 데이터 객체가 저장되는 곳은 어디인가요?
+
+A. .git/logs/
+B. .git/refs/
+C. .git/objects/
+D. .git/hooks/
+
+Q4. git add 명령을 실행하면 파일 정보가 저장되는 .git 내부 파일은 무엇인가요?
+
+A. .git/index
+B. .git/HEAD
+C. .git/info
+D. .git/refs/stage
+
+
+```
+
+
 </details>
 
 <details>
 
 <summary><strong>2025. 07. 31. (목)</strong></summary>
+
+```
+Q1. 어떤 상황에서 .git 폴더가 사라지면 가장 먼저 발생할 수 있는 문제는?
+
+A. 파일이 전부 삭제된다
+B. remote 서버와 동기화가 끊긴다
+C. 버전 관리 자체가 불가능해진다
+D. 커밋 메시지만 초기화된다
+
+Q2. 특정 브랜치가 갑자기 안 보이는데, .git 폴더에서 가장 먼저 확인할 수 있는 곳은?
+
+A. .git/hooks/
+B. .git/refs/heads/
+C. .git/config
+D. .git/index
+
+Q3. 원격 저장소(origin)의 주소는 .git 폴더의 어디에 저장되어 있나요?
+
+A. .git/HEAD
+B. .git/objects
+C. .git/logs/HEAD
+D. .git/config
+
+Q4. git add를 했는데 커밋에는 안 들어간다면, 어떤 파일을 먼저 의심해야 하나요?
+
+A. .git/HEAD
+B. .git/refs/tags
+C. .git/index
+D. .git/description
+
+```
+
 
 </details>
 
