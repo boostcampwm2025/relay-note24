@@ -262,3 +262,34 @@ A) 선택지1  B) 선택지2  C) 선택지3  D) 선택지4
 - 해당 퀘스트로 자신의 성장 또는 변화를 느껴보며 **한 가지 이상** 발견한다.
 - 선택 사항: 자신이 느낀 인사이트를 슬랙에 공유해본다.
 </details>
+
+---
+## 과제 수행 내역
+
+<details>
+  <summary> <b>K004</b> </summary>
+
+  #### 퀘스트: 
+  
+</details>
+
+<details>
+  <summary> <b>J083</b> </summary>
+
+  #### 퀘스트: 
+  
+</details>
+
+<details>
+  <summary> <b>J130</b> </summary>
+
+  #### 퀘스트: 
+  
+</details>
+
+<details>
+  <summary>J158</summary>
+
+  #### 퀘스트3: AI와 퀴즈를 통해 미션 리마인드하기
+  
+</details>
