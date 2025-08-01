@@ -288,7 +288,7 @@ A) 선택지1  B) 선택지2  C) 선택지3  D) 선택지4
 </details>
 
 <details>
-  <summary>J158</summary>
+  <summary> <b>J158</b> </summary>
 
   #### 퀘스트3: AI와 퀴즈를 통해 미션 리마인드하기
   
