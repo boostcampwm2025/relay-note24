@@ -367,4 +367,15 @@ A) 선택지1  B) 선택지2  C) 선택지3  D) 선택지4
 
   #### 퀘스트3: AI와 퀴즈를 통해 미션 리마인드하기
   
+## 8/6
+<img width="148" height="64" alt="image" src="https://github.com/user-attachments/assets/80ae7a01-b136-48cd-80de-87dc29fb2f40" />
+
+- 중급에서 시작해서 고급으로 레벨업!
+- 제공해준 프로토콜을 이용하니 문제가 하나씩 나오면서 정답에 대한 해설도 각각 제공하여 좋았다.
+- 특히, 레벨업 시스템이 게임과 같아 재미를 주는 요소로 학습에 흥미를 주는 것 같다.
+
+### 문제 및 해설 예시
+<img width="341" height="140" alt="image" src="https://github.com/user-attachments/assets/5842cf00-a926-4d00-a93b-a5da1f5308f7" />
+<img width="356" height="236" alt="image" src="https://github.com/user-attachments/assets/cdc04b97-695e-4327-a11f-1621589a2a06" />
+
 </details>
