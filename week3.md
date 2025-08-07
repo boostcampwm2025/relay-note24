@@ -269,7 +269,15 @@ A) 선택지1  B) 선택지2  C) 선택지3  D) 선택지4
 <details>
   <summary> <b>K004</b> </summary>
 
-  #### 퀘스트: 
+  #### 퀘스트3: AI와 퀴즈를 통해 미션 리마인드하기
+  ### 선택 이유
+  릴레이 프로젝트에서 AI와 퀴즈 진행하기를 하며 나에게 잘 맞는 학습 방법이라고 생각했다. 학습한 내용에 대해서 검증도 하고 정답을 맞추다보니 더 오래 기억하게 되는 것 같은 느낌이 든다.
+  <img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/c6249996-6ee8-4ead-88e4-71584046e9c2" />
+<img width="980" height="415" alt="image" src="https://github.com/user-attachments/assets/ab80f7d0-71f9-460a-93df-d7721f22c602" />
+<img width="974" height="516" alt="image" src="https://github.com/user-attachments/assets/18c9f6ff-6c28-4e7d-8f94-d7b5d7595f1d" />
+총 10문제까지 도전되었지만 10번문제에서 막히고 말았지만 이를 통해 내가 어느 부분이 학습이 덜 되었는지 확인할 수 있는 매우 좋은 기회입니다. <br>
+이처럼 AI를 학습의 학습검증도구로 사용한다면 공부한 내용에 대한 확인을 할 수 있고 기억에 더 오래남으며 나름? 재미와 보람을 더 느낄 수 있게 해줍니다. 
+
   
 </details>
 
